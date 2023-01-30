@@ -39,7 +39,7 @@ body {
 .header div ul li {
     display: inline-block;
     margin-left: px;
-    border-radius: 15px;
+    border-block: 3px;
     border-style: solid;
 }
 
@@ -85,7 +85,7 @@ p {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    background-color: #0d4e70;
 }
 
 .benefit-lead {
@@ -141,7 +141,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #076fb0;
     color: #ffffff;
 }
 
